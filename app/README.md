@@ -1,24 +1,17 @@
-# app
+Dentro da pasta app
 
-## Project setup
+## Rode o comando abaixo:
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Após isso, compile o build e rode o servidor
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Produção
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
